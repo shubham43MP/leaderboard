@@ -1,4 +1,4 @@
-# React + TypeScript + Vite quiz app
+# Quiz Leaderboard
 
  This project is a real-time quiz application built with React and TypeScript using Vite as the build tool. It features a dynamic leaderboard where new users are added periodically, and their scores are updated in real-time, creating an engaging and interactive user experience.
  Note: This app does not use an actual back-end. The data is mocked to simulate real-time user additions and score updates.
